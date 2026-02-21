@@ -1,0 +1,9 @@
+*.db
+__pycache__
+.pytest_cache
+.claude
+.git
+node_modules
+frontend/node_modules
+static
+audio_files

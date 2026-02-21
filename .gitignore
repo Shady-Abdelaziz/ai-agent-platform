@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Docker
+*.log
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Audio temp files
+audio_files/
+static/audio/
+*.mp3
+*.wav
+*.webm
+!frontend/public/
+
+# Claude Code
+.claude/
+CLAUDE.md
+AI_AGENT_PLATFORM_SPEC.md
+VIDEO_SCRIPT.md
+
+# Assessment files
+Backend Assessment.pdf
+API key.pdf
